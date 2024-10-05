@@ -1,0 +1,14 @@
+#You can add numbers without the AAA format, and you can also add numbers with a + sign in front of them.
+
+
++85296636660 AAA
++85293539835 AAA
++85293353083 
++85293817209 
+85261362773 AAA
+85261820598 AAA
+85291071936 
+85266859566 
+
+
+#Text below which there is no contact number will be deleted and not detected.
